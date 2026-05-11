@@ -1,2 +1,0 @@
-Implementar un filtro IIR de 2do orden Butterworth con una frecuencia de corte de 100 Hz y una frecuencia de muestreo de 1000 muestras/sec.
-
